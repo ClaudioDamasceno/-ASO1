@@ -1,0 +1,10 @@
+echo "# -ASO1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ClaudioDamasceno/-ASO1.git
+git push -u origin main
+Config. apt-get
+Comando: sudo apt-get update
+Comando: sudo apt-get upgrade
